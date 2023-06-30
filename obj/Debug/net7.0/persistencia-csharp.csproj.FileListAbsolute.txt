@@ -1,0 +1,17 @@
+/home/apolm01-009/Documents/net/persistencia-csharp/obj/Debug/net7.0/persistencia-csharp.csproj.AssemblyReference.cache
+/home/apolm01-009/Documents/net/persistencia-csharp/obj/Debug/net7.0/persistencia-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-009/Documents/net/persistencia-csharp/obj/Debug/net7.0/persistencia-csharp.AssemblyInfoInputs.cache
+/home/apolm01-009/Documents/net/persistencia-csharp/obj/Debug/net7.0/persistencia-csharp.AssemblyInfo.cs
+/home/apolm01-009/Documents/net/persistencia-csharp/obj/Debug/net7.0/persistencia-csharp.csproj.CoreCompileInputs.cache
+/home/apolm01-009/Documents/net/persistencia-csharp/bin/Debug/net7.0/persistencia-csharp
+/home/apolm01-009/Documents/net/persistencia-csharp/bin/Debug/net7.0/persistencia-csharp.deps.json
+/home/apolm01-009/Documents/net/persistencia-csharp/bin/Debug/net7.0/persistencia-csharp.runtimeconfig.json
+/home/apolm01-009/Documents/net/persistencia-csharp/bin/Debug/net7.0/persistencia-csharp.dll
+/home/apolm01-009/Documents/net/persistencia-csharp/bin/Debug/net7.0/persistencia-csharp.pdb
+/home/apolm01-009/Documents/net/persistencia-csharp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/apolm01-009/Documents/net/persistencia-csharp/obj/Debug/net7.0/persistencia-csharp.csproj.CopyComplete
+/home/apolm01-009/Documents/net/persistencia-csharp/obj/Debug/net7.0/persistencia-csharp.dll
+/home/apolm01-009/Documents/net/persistencia-csharp/obj/Debug/net7.0/refint/persistencia-csharp.dll
+/home/apolm01-009/Documents/net/persistencia-csharp/obj/Debug/net7.0/persistencia-csharp.pdb
+/home/apolm01-009/Documents/net/persistencia-csharp/obj/Debug/net7.0/persistencia-csharp.genruntimeconfig.cache
+/home/apolm01-009/Documents/net/persistencia-csharp/obj/Debug/net7.0/ref/persistencia-csharp.dll

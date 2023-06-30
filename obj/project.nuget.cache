@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kLQZD4J9iAhgSVqp2wS/aDC+atvUyQzBjHTst+8JHH5XWW115B0lY10idhMoZGpHQBMwYDOagLk6pyVdMsCQRg==",
+  "success": true,
+  "projectFilePath": "/home/apolm01-009/Documents/net/persistencia/persistencia-csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/apolm01-009/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
